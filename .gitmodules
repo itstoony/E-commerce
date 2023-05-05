@@ -1,0 +1,3 @@
+[submodule "Product-microservice"]
+	path = Product-microservice
+	url = https://github.com/itstoony/Product-microservice.git
