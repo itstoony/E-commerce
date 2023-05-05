@@ -4,3 +4,6 @@
 [submodule "Customer-microservice"]
 	path = Customer-microservice
 	url = https://github.com/itstoony/Customer-microservice.git
+[submodule "ShoppingCart-microservice"]
+	path = ShoppingCart-microservice
+	url = https://github.com/itstoony/ShoppingCart-microservice.git
