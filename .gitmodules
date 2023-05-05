@@ -1,3 +1,6 @@
 [submodule "Product-microservice"]
 	path = Product-microservice
 	url = https://github.com/itstoony/Product-microservice.git
+[submodule "Customer-microservice"]
+	path = Customer-microservice
+	url = https://github.com/itstoony/Customer-microservice.git
